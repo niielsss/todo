@@ -1,1 +1,1 @@
-Todo list
+Todo list app with React for Duodeka
